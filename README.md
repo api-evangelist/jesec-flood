@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Flood is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://github.com/jesec/flood
+Flood is an open-source web UI for torrent clients such as rTorrent, Transmission, and qBittorrent. It provides a modern, responsive interface with light and dark themes, multi-language support, and touch-friendly design. Users can monitor and control their torrent downloads, view statistics, and manage settings through a browser. The project is maintained by the community and hosted on GitHub, offering downloads via npm and detailed documentation on its website.
+
+**Areas:** Company · OpenSource · Torrent · WebUI · JavaScript
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://flood.js.org)
+- [Documentation](https://api-docs.js.org/)
+- [Blog](https://flood.js.org/blog)
+- [GitHub](https://github.com/jesec/flood)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/jesec-flood/](https://apis.io/providers/jesec-flood/).
